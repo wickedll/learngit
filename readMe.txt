@@ -1,1 +1,2 @@
-你好啊啊大哈哈哈哈
+Git is a distributed version control system.
+Git is free software.
